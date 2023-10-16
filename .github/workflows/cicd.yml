@@ -1,0 +1,23 @@
+on:
+  push:
+    branches: [ staging ]
+ 
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build and Deploy
+        uses: appleboy/ssh-action@v0.1.2
+        with:
+          host: ${{secrets.PEROLA_SSH_HOST}}
+          username: ${{secrets.PEROLA_SSH_USERNAME}}
+          password: ${{secrets.PEROLA_SSH_PASSWORD}}
+          script: |
+            cd voeperola.com
+            git add .
+            git stash
+            git checkout staging
+            git pull
+            npm install
+            npm run build
+            pm2 restart voeperola

@@ -1,0 +1,55 @@
+.home {
+  @apply flex flex-col;
+}
+
+.main {
+  @apply flex flex-col;
+}
+
+.hero {
+  @apply relative flex flex-col items-center justify-center max-h-[800px] h-screen gap-10 text-white bg-[url('/images/hero/hero.png')] bg-cover bg-center bg-no-repeat after:content-[''];
+}
+
+.hero:after {
+  @apply absolute left-0 top-0 w-full h-full bg-[rgba(0,0,0,.2)];
+}
+
+.hero > * {
+  @apply z-[1];
+}
+
+.hero h1 {
+  @apply text-5xl;
+}
+
+.hero p {
+  @apply w-5/6 md:w-1/2 text-2xl text-center;
+}
+
+.wrap {
+  @apply flex flex-col max-w-[1840px] w-full m-auto p-10 gap-20 rounded-lg bg-white shadow-[0_0_10px_0_rgba(0,0,0,.5)];
+}
+
+.body {
+  @apply -mt-10 px-10 z-[1];
+}
+
+.section h1 {
+  @apply relative text-3xl mb-4;
+}
+
+.liveNow object {
+  @apply w-full h-[300px] md:h-[500px];
+}
+
+.partners ul {
+  @apply flex flex-row flex-wrap justify-center sm:justify-normal gap-10;
+}
+
+.partners li {
+  @apply flex items-center max-w-[200px];
+}
+
+.footer {
+  @apply text-center p-10;
+}

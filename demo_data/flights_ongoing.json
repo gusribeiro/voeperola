@@ -1,0 +1,332 @@
+[{
+    "_id": "651577e5e9030cc9c8debe9a",
+    "pilot": {
+        "fullname": "Renan Monteiro"
+    },
+    "aircraft": {
+        "airframe": {
+            "ident": "A20N",
+            "icao": "A20N",
+            "icon": "A320",
+            "name": "Airbus A320 neo"
+        }
+    },
+    "flightNumber": "1441",
+    "depTimeAct": "2023-09-28T13:20:15.295Z",
+    "arrTimeAct": null,
+    "simulator": "msfs",
+    "network": {
+        "name": "ivao",
+        "pings": 7,
+        "pingsTotal": 7
+    },
+    "emergency": false,
+    "lastState": {
+        "location": {
+            "lat": -22.960293,
+            "lon": -43.109863,
+            "hdg": 155.4
+        }
+    },
+    "airline": {
+        "icao": "DEM",
+        "fullname": "DemoAir",
+        "logo": "default"
+    },
+    "dep": {
+        "icao": "SBRJ",
+        "name": "Santos Dumont Airport"
+    },
+    "arr": {
+        "icao": "SBSP",
+        "name": "Congonhas Airport"
+    },
+    "schedule": false,
+    "charter": false
+},
+
+
+{
+    "_id": "651577e5e9030cc9c8debe9a",
+    "pilot": {
+        "fullname": "Renan Monteiro"
+    },
+    "aircraft": {
+        "airframe": {
+            "ident": "A20N",
+            "icao": "A20N",
+            "icon": "A320",
+            "name": "Airbus A320 neo"
+        }
+    },
+    "flightNumber": "1441",
+    "depTimeAct": "2023-09-28T13:20:15.295Z",
+    "arrTimeAct": null,
+    "simulator": "msfs",
+    "network": {
+        "name": "ivao",
+        "pings": 17,
+        "pingsTotal": 17
+    },
+    "emergency": false,
+    "lastState": {
+        "location": {
+            "lat": -23.414085,
+            "lon": -43.719864,
+            "hdg": 255.9
+        }
+    },
+    "airline": {
+        "icao": "DEM",
+        "fullname": "DemoAir",
+        "logo": "default"
+    },
+    "dep": {
+        "icao": "SBRJ",
+        "name": "Santos Dumont Airport"
+    },
+    "arr": {
+        "icao": "SBSP",
+        "name": "Congonhas Airport"
+    },
+    "schedule": false,
+    "charter": false
+},
+
+
+{
+    "_id": "651577e5e9030cc9c8debe9a",
+    "pilot": {
+        "fullname": "Renan Monteiro"
+    },
+    "aircraft": {
+        "airframe": {
+            "ident": "A20N",
+            "icao": "A20N",
+            "icon": "A320",
+            "name": "Airbus A320 neo"
+        }
+    },
+    "flightNumber": "1441",
+    "depTimeAct": "2023-09-28T13:20:15.295Z",
+    "arrTimeAct": null,
+    "simulator": "msfs",
+    "network": {
+        "name": "ivao",
+        "pings": 19,
+        "pingsTotal": 19
+    },
+    "emergency": false,
+    "lastState": {
+        "location": {
+            "lat": -23.528091,
+            "lon": -44.212898,
+            "hdg": 256
+        }
+    },
+    "airline": {
+        "icao": "DEM",
+        "fullname": "DemoAir",
+        "logo": "default"
+    },
+    "dep": {
+        "icao": "SBRJ",
+        "name": "Santos Dumont Airport"
+    },
+    "arr": {
+        "icao": "SBSP",
+        "name": "Congonhas Airport"
+    },
+    "schedule": false,
+    "charter": false
+},
+
+
+{
+    "_id": "651577e5e9030cc9c8debe9a",
+    "pilot": {
+        "fullname": "Renan Monteiro"
+    },
+    "aircraft": {
+        "airframe": {
+            "ident": "A20N",
+            "icao": "A20N",
+            "icon": "A320",
+            "name": "Airbus A320 neo"
+        }
+    },
+    "flightNumber": "1441",
+    "depTimeAct": "2023-09-28T13:20:15.295Z",
+    "arrTimeAct": null,
+    "simulator": "msfs",
+    "network": {
+        "name": "ivao",
+        "pings": 25,
+        "pingsTotal": 25
+    },
+    "emergency": false,
+    "lastState": {
+        "location": {
+            "lat": -23.708744,
+            "lon": -45.00967,
+            "hdg": 256.3
+        }
+    },
+    "airline": {
+        "icao": "DEM",
+        "fullname": "DemoAir",
+        "logo": "default"
+    },
+    "dep": {
+        "icao": "SBRJ",
+        "name": "Santos Dumont Airport"
+    },
+    "arr": {
+        "icao": "SBSP",
+        "name": "Congonhas Airport"
+    },
+    "schedule": false,
+    "charter": false
+},
+
+{
+    "_id": "651577e5e9030cc9c8debe9a",
+    "pilot": {
+        "fullname": "Renan Monteiro"
+    },
+    "aircraft": {
+        "airframe": {
+            "ident": "A20N",
+            "icao": "A20N",
+            "icon": "A320",
+            "name": "Airbus A320 neo"
+        }
+    },
+    "flightNumber": "1441",
+    "depTimeAct": "2023-09-28T13:20:15.295Z",
+    "arrTimeAct": "2023-09-28T14:11:07.274Z",
+    "simulator": "msfs",
+    "network": {
+        "name": "ivao",
+        "pings": 48,
+        "pingsTotal": 48
+    },
+    "emergency": false,
+    "lastState": {
+        "location": {
+            "lat": -23.627186,
+            "lon": -46.658085,
+            "hdg": 234.5
+        }
+    },
+    "airline": {
+        "icao": "DEM",
+        "fullname": "DemoAir",
+        "logo": "default"
+    },
+    "dep": {
+        "icao": "SBRJ",
+        "name": "Santos Dumont Airport"
+    },
+    "arr": {
+        "icao": "SBSP",
+        "name": "Congonhas Airport"
+    },
+    "schedule": false,
+    "charter": false
+},
+
+{
+    "_id": "651577e5e9030cc9c8debe9a",
+    "pilot": {
+        "fullname": "Renan Monteiro"
+    },
+    "aircraft": {
+        "airframe": {
+            "ident": "A20N",
+            "icao": "A20N",
+            "icon": "A320",
+            "name": "Airbus A320 neo"
+        }
+    },
+    "flightNumber": "1441",
+    "depTimeAct": "2023-09-28T13:20:15.295Z",
+    "arrTimeAct": null,
+    "simulator": "msfs",
+    "network": {
+        "name": "ivao",
+        "pings": 33,
+        "pingsTotal": 33
+    },
+    "emergency": false,
+    "lastState": {
+        "location": {
+            "lat": -23.952383,
+            "lon": -46.120049,
+            "hdg": 256.8
+        }
+    },
+    "airline": {
+        "icao": "DEM",
+        "fullname": "DemoAir",
+        "logo": "default"
+    },
+    "dep": {
+        "icao": "SBRJ",
+        "name": "Santos Dumont Airport"
+    },
+    "arr": {
+        "icao": "SBSP",
+        "name": "Congonhas Airport"
+    },
+    "schedule": false,
+    "charter": false
+},
+
+
+{
+    "_id": "651577e5e9030cc9c8debe9a",
+    "pilot": {
+        "fullname": "Renan Monteiro"
+    },
+    "aircraft": {
+        "airframe": {
+            "ident": "A20N",
+            "icao": "A20N",
+            "icon": "A320",
+            "name": "Airbus A320 neo"
+        }
+    },
+    "flightNumber": "1441",
+    "depTimeAct": "2023-09-28T13:20:15.295Z",
+    "arrTimeAct": null,
+    "simulator": "msfs",
+    "network": {
+        "name": "ivao",
+        "pings": 37,
+        "pingsTotal": 37
+    },
+    "emergency": false,
+    "lastState": {
+        "location": {
+            "lat": -23.881308,
+            "lon": -46.555,
+            "hdg": 290.8
+        }
+    },
+    "airline": {
+        "icao": "DEM",
+        "fullname": "DemoAir",
+        "logo": "default"
+    },
+    "dep": {
+        "icao": "SBRJ",
+        "name": "Santos Dumont Airport"
+    },
+    "arr": {
+        "icao": "SBSP",
+        "name": "Congonhas Airport"
+    },
+    "schedule": false,
+    "charter": false
+}]

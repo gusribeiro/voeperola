@@ -1,0 +1,16 @@
+{
+  "header": {
+    "siteName": "voeperola.com",
+    "home": "Home",
+    "about": "Sobre",
+    "register": "Registrar",
+    "logIn": "Entrar"
+  },
+  "home": {
+    "welcome": "Bem Vindo",
+    "main": "Bem-vindo ao VoePerola, sua companhia aérea virtual projetada para amigos que adoram voar sem compromissos pesados. Seja você um piloto experiente ou alguém novo nos céus, estamos aqui para oferecer uma incrível experiência de voo. Graças ao apoio de parceiros inestimáveis como a NewSky, você pode explorar o mundo a partir do cockpit de aeronaves avançadas usando MSFS e X-Plane. Além disso, firmamos parceria com a IVAO para uma experiência imersiva. Junte-se a nós hoje para aventuras na aviação do seu jeito. Bem-vindo a bordo, Comandante!",
+    "joinButton": "Voe Conosco!",
+    "live": "Voando Agora",
+    "partners": "Parceiros"
+  }
+}

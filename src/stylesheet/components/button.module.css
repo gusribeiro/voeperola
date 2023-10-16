@@ -1,0 +1,27 @@
+.button {
+  @apply px-6 py-2 text-base font-bold rounded;
+}
+
+.primary {
+  @apply text-white bg-[#369] hover:brightness-90;
+}
+
+.secondary {
+  @apply bg-none text-[#369] hover:brightness-90;
+}
+
+.tertiary {
+  @apply text-[#369] bg-none border border-[#369] hover:brightness-90;
+}
+
+.success {
+  @apply bg-green-500;
+}
+
+.warning {
+  @apply bg-yellow-500;
+}
+
+.danger {
+  @apply bg-red-500;
+}

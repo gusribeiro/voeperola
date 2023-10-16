@@ -1,0 +1,16 @@
+{
+  "header": {
+    "siteName": "voeperola.com",
+    "home": "Home",
+    "about": "About",
+    "register": "Register",
+    "logIn": "Log In"
+  },
+  "home": {
+    "welcome": "Welcome",
+    "main": "Welcome to FlyPerola, your virtual airline designed for friends who love to fly without the heavy commitments. Whether you're an experienced pilot or new to the skies, we're here to offer an incredible flying experience. Thanks to the support of our invaluable partners like NewSky, you can explore the world from the cockpit of advanced aircraft using MSFS and X-Plane. Plus, we've partnered with IVAO for an immersive experience. Join us today for aviation adventures on your terms. Welcome aboard, Captain!",
+    "joinButton": "Fly with Us!",
+    "live": "Live Now",
+    "partners": "Partners"
+  }
+}
